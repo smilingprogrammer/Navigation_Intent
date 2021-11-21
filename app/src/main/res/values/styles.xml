@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <style name="Widget.Words.TextView" parent="Widget.MaterialComponents.TextView">
+    <style name="Widget.Intent.TextView" parent="Widget.MaterialComponents.TextView">
         <item name="android:textAppearance">?attr/textAppearanceHeadline4</item>
     </style>
 </resources>
